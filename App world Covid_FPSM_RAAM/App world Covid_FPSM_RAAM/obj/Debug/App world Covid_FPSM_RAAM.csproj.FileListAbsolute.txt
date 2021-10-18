@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App world Covid_FPSM_RAAM.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App_world_Covid_FPSM_RAAM.Form1.resources
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App_world_Covid_FPSM_RAAM.Properties.Resources.resources
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App world Covid_FPSM_RAAM.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App world Covid_FPSM_RAAM.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\bin\Debug\App world Covid_FPSM_RAAM.exe.config
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\bin\Debug\App world Covid_FPSM_RAAM.exe
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\bin\Debug\App world Covid_FPSM_RAAM.pdb
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App world Covid_FPSM_RAAM.csproj.CopyComplete
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App world Covid_FPSM_RAAM.exe
+C:\Users\usuario\source\repos\App world Covid_FPSM_RAAM\App world Covid_FPSM_RAAM\obj\Debug\App world Covid_FPSM_RAAM.pdb
